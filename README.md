@@ -1,8 +1,8 @@
 # About Me
 * Hi! I’m Jenna, a rising Data Science senior at Arizona State University 🔱✨
 * I’m interested in Natural Language Processing and Bioinformatics
-* I’m currently learning python and c++
-* I’m looking to collaborate on Machine Learning projects
+* I’m currently learning techniques for computational drug discovery
+* I’m looking to collaborate on ML/AI projects
 * You can reach me at jlchiara00@gmail.com
 
 *"I will argue that computational thinking and computational methods are so central to the quest of understanding life that today all biology is computational biology"* - Florian Markowetz
