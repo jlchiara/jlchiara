@@ -1,6 +1,6 @@
 # About Me
-* Hi! I’m Jenna, a Data Science junior at Arizona State University 🔱✨
-* I’m interested in Machine Learning and Bioinformatics
+* Hi! I’m Jenna, a rising Data Science senior at Arizona State University 🔱✨
+* I’m interested in Natural Language Processing and Bioinformatics
 * I’m currently learning python and c++
 * I’m looking to collaborate on Machine Learning projects
 * You can reach me at jlchiara00@gmail.com
